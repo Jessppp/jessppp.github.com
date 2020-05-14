@@ -1,0 +1,22 @@
+<rss xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+    <channel>
+        <title>Golang - 分类 - JesspppDe技术Blog</title>
+        <link>https://jessppp.github.io/categories/golang/</link>
+        <description>Golang - 分类 - JesspppDe技术Blog</description>
+        <generator>Hugo -- gohugo.io</generator><language>zh-CN</language><managingEditor>184677101@qq.com (Jessppp)</managingEditor>
+            <webMaster>184677101@qq.com (Jessppp)</webMaster><lastBuildDate>Wed, 13 May 2020 18:55:00 &#43;0800</lastBuildDate><atom:link href="https://jessppp.github.io/categories/golang/" rel="self" type="application/rss+xml" /><item>
+    <title>Golang代码中的好味道与坏味道</title>
+    <link>https://jessppp.github.io/golang-good-taste/</link>
+    <pubDate>Wed, 13 May 2020 18:55:00 &#43;0800</pubDate>
+    <author>作者</author>
+    <guid>https://jessppp.github.io/golang-good-taste/</guid>
+    <description><![CDATA[前言 当我们在写代码的时候，总会存在一些好味道和坏味道的代码，当你应用体量不是很大的时候，他们之间的差别不会很明显，但是当你的体量达到BAT那]]></description>
+</item><item>
+    <title>Go-Micro框架使用runtime/pprof进行性能分析</title>
+    <link>https://jessppp.github.io/first_post/</link>
+    <pubDate>Sat, 09 May 2020 20:12:58 &#43;0800</pubDate>
+    <author>作者</author>
+    <guid>https://jessppp.github.io/first_post/</guid>
+    <description><![CDATA[背景 公司最近在做520大促前压测系统瓶颈，因为公司用的是Go-Micro框架,框架底层由其他团队负责更新维护,net/http/pprof包]]></description>
+</item></channel>
+</rss>
