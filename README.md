@@ -1,2 +1,0 @@
-# jessppp.github.com
-JesspppDeBlog

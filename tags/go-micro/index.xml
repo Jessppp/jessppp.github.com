@@ -1,0 +1,15 @@
+<rss xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+    <channel>
+        <title>Go-Micro - 标签 - JesspppDe技术Blog</title>
+        <link>https://blog.kswii.com/tags/go-micro/</link>
+        <description>Go-Micro - 标签 - JesspppDe技术Blog</description>
+        <generator>Hugo -- gohugo.io</generator><language>zh-CN</language><managingEditor>184677101@qq.com (Jessppp)</managingEditor>
+            <webMaster>184677101@qq.com (Jessppp)</webMaster><lastBuildDate>Sat, 09 May 2020 20:12:58 &#43;0800</lastBuildDate><atom:link href="https://blog.kswii.com/tags/go-micro/" rel="self" type="application/rss+xml" /><item>
+    <title>Go-Micro框架使用runtime/pprof进行性能分析</title>
+    <link>https://blog.kswii.com/first_post/</link>
+    <pubDate>Sat, 09 May 2020 20:12:58 &#43;0800</pubDate>
+    <author>作者</author>
+    <guid>https://blog.kswii.com/first_post/</guid>
+    <description><![CDATA[背景 公司最近在做520大促前压测系统瓶颈，因为公司用的是Go-Micro框架,框架底层由其他团队负责更新维护,net/http/pprof包]]></description>
+</item></channel>
+</rss>
