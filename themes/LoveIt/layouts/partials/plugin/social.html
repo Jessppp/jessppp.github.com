@@ -1,0 +1,11 @@
+{{- $href := "" -}}
+{{- with .url -}}
+    {{- $href = . | relLangURL -}}
+{{- else -}}
+    {{- $template := .template | default "%s" -}}
+    {{- with .prefix -}}
+        {{- $template = . | strings.TrimSuffix "/" | printf "%s/%%s" -}}
+    {{- end -}}
+    {{- $href = printf (string $template) .id -}}
+{{- end -}}
+{{- dict "href" $href "rel" "me" | merge . | partial "plugin/link.html" -}}

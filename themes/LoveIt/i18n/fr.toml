@@ -1,0 +1,194 @@
+# Translations for French
+# Traductions pour le français
+# https://gohugo.io/content-management/multilingual/#translation-of-strings
+
+# === baseof ==
+[backToTop]
+other = "Retour en Haut"
+
+[viewComments]
+other = "Afficher les Commentaires"
+# === baseof ==
+
+# === Post ===
+[posts]
+other = "Posts"
+# === Post ===
+
+# === Taxonomy ===
+[allSome]
+other = "Tous %s"
+
+[tag]
+other = "Balise"
+
+[tags]
+other = "Balises"
+
+[category]
+other = "Catégorie"
+
+[categories]
+other = "Catégories"
+# === Taxonomy ===
+
+# === Pagination ===
+[more]
+other = "Plus"
+# === Pagination ===
+
+# === partials/header.html ===
+[selectLanguage]
+other = "Choisir la langue"
+
+[switchTheme]
+other = "Changer de Thème"
+# === partials/header.html ===
+
+# === partials/footer.html ===
+[poweredBySome]
+other = "Propulsé par %s"
+
+[theme]
+other = "Thème"
+# === partials/footer.html ===
+
+# === partials/comment.html ===
+[valineLang]
+other = "en"
+
+[valinePlaceholder]
+other = "Votre commentaire ..."
+
+[facebookLanguageCode]
+other = "fr"
+# === partials/comment.html ===
+
+# === partials/assets.html ===
+[search]
+other = "Chercher"
+
+[searchPlaceholder]
+other = "Rechercher des titres, des contenus..."
+
+[clear]
+other = "Clair"
+
+[cancel]
+other = "Annuler"
+
+[noResultsFound]
+other = "Aucun résultat trouvé"
+
+[lunrLanguageCode]
+other = "fr"
+
+[lunrLanguageLib]
+other = "lib/lunr/lunr.fr.js"
+
+[copyToClipboard]
+other = "Copier dans le presse-papiers"
+# === partials/assets.html ===
+
+# === partials/plugin/share.html ===
+[shareOn]
+other = "Partager sur"
+# === partials/plugin/share.html ===
+
+# === posts/single.html ===
+[contents]
+other = "Contenu"
+
+[publish]
+other = "publié le"
+
+[included]
+other = "inclus dans"
+
+[wordCount]
+other = "environ {{ .Count }} mots"
+
+[readingTime]
+other = "{{ .Count }} min"
+
+[views]
+other = "vues"
+
+[author]
+other = "Auteur"
+
+[lastMod]
+other = "Dernière mise à jour le %s"
+
+[license]
+other = "Publié sous licence %s"
+
+[seeMarkdown]
+other = "Lire Markdown"
+
+[back]
+other = "Retour"
+
+[home]
+other = "Accueil"
+
+[readMore]
+other = "En savoir plus"
+# === posts/single.html ===
+
+# === 404.html ===
+[pageNotFound]
+other = "Page non trouvée"
+
+[pageNotFoundText]
+other = "Désolé, la page recherchée n'existe pas."
+# === 404.html ===
+
+# === shortcodes/admonition.html ===
+[note]
+other = "Remarque"
+
+[abstract]
+other = "Abstrait"
+
+[info]
+other = "Info"
+
+[tip]
+other = "Astuces"
+
+[success]
+other = "Succès"
+
+[question]
+other = "Question"
+
+[warning]
+other = "Avertissement"
+
+[failure]
+other = "Échec"
+
+[danger]
+other = "Danger"
+
+[bug]
+other = "Bug"
+
+[example]
+other = "Exemple"
+
+[quote]
+other = "Citation"
+# === shortcodes/admonition.html ===
+
+# === shortcodes/version.html ===
+[new]
+other = "NOUVEAU"
+
+[changed]
+other = "CHANGE"
+
+[deleted]
+other = "EFFACE"
+# === shortcodes/version.html ===
